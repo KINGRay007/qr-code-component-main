@@ -99,29 +99,6 @@ p {
 
 /*
 ***********************
- <--(-ATTRIBUTE-)-->
-***********************
-*/
-.attribution {
-    background-color: var(--Light-gray);
-    color: var(--Dark-blue);
-    font-size: 0.76rem;
-    text-align: center; 
-    padding-bottom: 0.4rem;
-}
-
-.attribution a { 
-    color: var(--Grayish-blue);
-    text-decoration: none;
-}
-
-.attribution a:hover {
-    color: var(--White);
-}
-
-
-/*
-***********************
  <--(-MEDIA QUERY-)-->
 ***********************
 */
